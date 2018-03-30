@@ -1,0 +1,55 @@
+.h1 {
+	font-family: "Calibri";
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 2em;
+	color: #66665c;
+}
+
+.h2 {
+	font-family: "Calibri";
+	font-weight: bold;
+	font-size: 1.5em;
+	color: #66665c;
+}
+
+.card-title {
+	font-family: "Calibri";
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 1em;
+	color: #ab162b;
+}
+
+.collapsed {
+	font-family: "Calibri";
+	font-size: 1em;
+}
+.card-body {
+	color: #212221;
+}
+
+a.collapsed {
+	color: #ab162b;
+}
+
+
+a {
+	color: #212221;
+}
+
+a:hover {
+	color: #66665c;
+}
+
+h3 {
+	font-family: "Calibri";
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 1.5em;
+	color: #ab162b;
+}
+
+p {
+	color: #212221;
+}
